@@ -17,7 +17,16 @@ Backend REST API built using:
 - Job Posting
 - Job Search
 - Apply Jobs
+- 
+## Architecture
 
+- Spring Boot REST API
+- JWT Authentication
+- Role-Based Access Control
+- MySQL Database
+- AWS EC2 Deployment
+- Maven Build Management
+- 
 ## Tech Stack
 
 Java, Spring Boot, MySQL, AWS
