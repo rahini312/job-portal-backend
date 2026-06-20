@@ -29,3 +29,25 @@ Deployed on AWS EC2
 ## Architecture
 
 Monolithic Spring Boot Application
+
+## API Documentation
+
+### Swagger UI
+
+![Swagger Home](swagger_screenshots/Swagger-home.png)
+
+### Authentication API
+
+![Login API](swagger_screenshots/Login-APIs.png)
+
+### Job APIs
+
+![Job APIs](swagger_screenshots/Job-APIs.png)
+
+### Company APIs
+
+![Company APIs](swagger_screenshots/Company-APIs.png)
+
+### Contact APIs
+
+![Contact APIs](swagger_screenshots/Contact-APIs.png)
